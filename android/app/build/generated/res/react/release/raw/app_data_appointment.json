@@ -1,0 +1,510 @@
+{
+    "dates": [
+        "2020-07-14T00:00:00.000+0530"
+    ],
+    "slotAppointments": [
+        [
+            {
+                "appointment": null,
+                "slot": "09:30",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "09:45",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "10:00",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "10:15",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": {
+                    "id": 13488,
+                    "facility": {
+                        "id": 8,
+                        "name": "Org1"
+                    },
+                    "appointmentDate": "2020-07-14",
+                    "appointmentStatus": "CLOSED",
+                    "startTime": "10:30",
+                    "endTime": null,
+                    "consultationType": null,
+                    "amount": null,
+                    "transactionId": null,
+                    "paymentStatus": null,
+                    "patient": {
+                        "id": 6049,
+                        "title": "Mr",
+                        "firstName": "New",
+                        "lastName": "Test",
+                        "phone": "9870098765",
+                        "email": "Newtest@yopmail.com"
+                    },
+                    "appointmentType": "OFFLINE",
+                    "onlineId": null
+                },
+                "slot": "10:30",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "10:45",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": {
+                    "id": 13490,
+                    "facility": {
+                        "id": 8,
+                        "name": "Org1"
+                    },
+                    "appointmentDate": "2020-07-14",
+                    "appointmentStatus": "CLOSED",
+                    "startTime": "11:00",
+                    "endTime": null,
+                    "consultationType": "VIDEO",
+                    "amount": null,
+                    "transactionId": null,
+                    "paymentStatus": null,
+                    "patient": {
+                        "id": 5613,
+                        "title": "Mr",
+                        "firstName": "Divyansh Normal User",
+                        "lastName": null,
+                        "phone": "8510012846",
+                        "email": "divyanshs@binaryinformatics.com"
+                    },
+                    "staffParticipants": [],
+                    "appointmentType": "VIRTUAL",
+                    "doctorAppointed": true,
+                    "meetingCode": "1f48c881-cf9b-4078-9823-3a9b90c909c4",
+                    "onlineId": null,
+                    "url": "1f48c881-cf9b-4078-9823-3a9b90c909c4"
+                },
+                "slot": "11:00",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "11:15",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "11:30",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "11:45",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "12:00",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "12:15",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "12:30",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "12:45",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "13:00",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "13:15",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "13:30",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "13:45",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "14:00",
+                "isPastTimeSlot": true
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "14:15",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "14:30",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "14:45",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "15:00",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "15:15",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "15:30",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "15:45",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "16:00",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "16:15",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "16:30",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "16:45",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "17:00",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "17:15",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "17:30",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "17:45",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "18:00",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "18:15",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "18:30",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "18:45",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "19:00",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "19:15",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "19:30",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "19:45",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "20:00",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "20:15",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": {
+                    "id": 13498,
+                    "facility": {
+                        "id": 8,
+                        "name": "Org1"
+                    },
+                    "appointmentDate": "2020-07-14",
+                    "appointmentStatus": "CONFIRMED",
+                    "startTime": "20:30",
+                    "endTime": null,
+                    "consultationType": "VIDEO",
+                    "amount": null,
+                    "transactionId": null,
+                    "paymentStatus": null,
+                    "patient": {
+                        "id": 112,
+                        "title": "Mr",
+                        "firstName": "Rohit",
+                        "lastName": "Kumar",
+                        "phone": "80776398",
+                        "email": "kishan.tanwar@gomedii.com"
+                    },
+                    "staffParticipants": [],
+                    "appointmentType": "VIRTUAL",
+                    "doctorAppointed": true,
+                    "meetingCode": "2dacf248-78ec-4d4c-8acc-173b73cdca3b",
+                    "onlineId": null,
+                    "url": "2dacf248-78ec-4d4c-8acc-173b73cdca3b"
+                },
+                "slot": "20:30",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "20:45",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "21:00",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "21:15",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "21:30",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": {
+                    "id": 13495,
+                    "facility": {
+                        "id": 8,
+                        "name": "Org1"
+                    },
+                    "appointmentDate": "2020-07-14",
+                    "appointmentStatus": "CONFIRMED",
+                    "startTime": "21:45",
+                    "endTime": null,
+                    "consultationType": null,
+                    "amount": null,
+                    "transactionId": null,
+                    "paymentStatus": null,
+                    "patient": {
+                        "id": 5542,
+                        "title": "Mr",
+                        "firstName": "test",
+                        "lastName": null,
+                        "phone": "7011436805",
+                        "email": "manmeet.singh@gomedii.com"
+                    },
+                    "appointmentType": "OFFLINE",
+                    "onlineId": null
+                },
+                "slot": "21:45",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "22:00",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "22:15",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "22:30",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "22:45",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "23:00",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "23:15",
+                "isPastTimeSlot": false
+            }
+        ],
+        [
+            {
+                "appointment": null,
+                "slot": "23:30",
+                "isPastTimeSlot": false
+            }
+        ]
+    ]
+}

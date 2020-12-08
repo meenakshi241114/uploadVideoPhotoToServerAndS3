@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="optApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/optApp.iml" filepath="$PROJECT_DIR$/.idea/modules/optApp.iml" group="optApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/960004202/react-native-community_art.iml" filepath="$PROJECT_DIR$/.idea/modules/960004202/react-native-community_art.iml" group="optApp/react-native-community_art" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1011721477/react-native-community_cameraroll.iml" filepath="$PROJECT_DIR$/.idea/modules/-1011721477/react-native-community_cameraroll.iml" group="optApp/react-native-community_cameraroll" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-315601681/react-native-exit-app.iml" filepath="$PROJECT_DIR$/.idea/modules/-315601681/react-native-exit-app.iml" group="optApp/react-native-exit-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1476473111/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1476473111/react-native-gesture-handler.iml" group="optApp/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/363940188/react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/363940188/react-native-image-crop-picker.iml" group="optApp/react-native-image-crop-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/142556349/react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/142556349/react-native-image-picker.iml" group="optApp/react-native-image-picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/873287984/react-native-image-sequence.iml" filepath="$PROJECT_DIR$/.idea/modules/873287984/react-native-image-sequence.iml" group="optApp/react-native-image-sequence" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-106823766/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-106823766/react-native-screens.iml" group="optApp/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1648109406/react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/1648109406/react-native-video.iml" group="optApp/react-native-video" />
+    </modules>
+  </component>
+</project>

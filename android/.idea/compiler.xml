@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="optApp.app" target="1.8" />
+      <module name="optApp.react-native-community_cameraroll" target="1.8" />
+      <module name="optApp.react-native-exit-app" target="1.8" />
+      <module name="optApp.react-native-gesture-handler" target="1.8" />
+      <module name="optApp.react-native-image-sequence" target="1.8" />
+      <module name="optApp.react-native-screens" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+{
+  "name": "react-native-image-sequence",
+  "version": "0.7.0",
+  "summary": "A <ImageSequence> component for react-native",
+  "authors": "Mads Lee Jensen <madsleejensen@gmail.com>",
+  "homepage": "https://github.com/madsleejensen/react-native-image-sequence",
+  "license": "MIT",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source": {
+    "git": "https://github.com/madsleejensen/react-native-image-sequence.git"
+  },
+  "source_files": "ios/RCTImageSequence/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

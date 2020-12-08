@@ -1,0 +1,6 @@
+module Pods_optApp_optAppTests {
+  umbrella header "Pods-optApp-optAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

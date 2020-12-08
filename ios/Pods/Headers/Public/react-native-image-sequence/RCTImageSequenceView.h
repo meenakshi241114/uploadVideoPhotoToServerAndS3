@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-image-sequence/ios/RCTImageSequence/RCTImageSequenceView.h
